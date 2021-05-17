@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 👨🏻‍💻 A little bit about me
+I'm a Comercial Analyst & Games developer at [Commit Jr](https://commitjr.com/) and Computer Engineering Student at [CEFET-MG](https://www.cefetmg.br/)
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pixel-debug)](https://github.com/pixel-debug)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marina-bernardes-diniz-935397200/)](https://www.linkedin.com/in/marina-bernardes-diniz-935397200/)
 <!--
 **pixel-debug/pixel-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
