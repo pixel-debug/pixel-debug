@@ -49,11 +49,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/pixel-debug/Zumbi-Run">
+  <a href="https://github.com/pixel-debug/pixel-debug">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=Zumbi-Run&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=README&theme=tokyonight">
     </img>
   </a>
 </p>
