@@ -22,14 +22,14 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=pixel-debug&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=pixel-debug&show_icons=true&include_all_commits=true&count_private=true&theme=moltack"
     />
   </a>
   <a href="https://github.com/pixel-debug">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel-debug&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel-debug&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=moltack"
     />
   </a>
 </p>
@@ -53,7 +53,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=README&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=pixel-debug&theme=moltack">
     </img>
   </a>
 </p>
