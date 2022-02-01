@@ -49,7 +49,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
+  <a href="https://github.com/pixel-debug/pixel-debug">
     <img
       align="center"
       height="120em"
