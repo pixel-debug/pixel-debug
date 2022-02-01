@@ -53,7 +53,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=pixel-debug&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=Zumbi-Run&theme=tokyonight">
     </img>
   </a>
 </p>
