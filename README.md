@@ -48,11 +48,8 @@
 
 <h3 align="center">Trabalhando em:</h3>
 
-<h5 align="center">"Desenvolvimento de jogos em [Commit Jr](https://commitjr.com/) e estudando Engenharia da Computação no [CEFET-MG](https://www.cefetmg.br/)
-"</h5>
-
 <p align="center">
-  <a href="https://github.com/pixel-debug/seu-repositorio">
+  <a href="https://github.com/seu-usuario/seu-repositorio">
     <img
       align="center"
       height="120em"
