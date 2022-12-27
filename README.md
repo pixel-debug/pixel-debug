@@ -53,7 +53,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=pixel-debug&theme=moltack">
+      src="[https://github-readme-stats.vercel.app/api/pin/?username=pixel-debug&repo=pixel-debug&theme=moltack](https://github.com/pixel-debug/Zumbi-Run)">
     </img>
   </a>
 </p>
