@@ -53,7 +53,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github.com/pixel-debug/Zumbi-Run">
+      src="[https://github.com/pixel-debug/Zumbi-Run](https://github.com/pixel-debug/pixel-debug/blob/master/README.md)">
     </img>
   </a>
 </p>
