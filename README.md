@@ -75,5 +75,5 @@
 </p>
 <h5 align="center">"Attention. Hull failure imminent. All personnel abandon ship. Launch in 3...2...1..."</h5>
 <br>
-![](https://komarev.com/ghpvc/?username=pixel-debug)
 
+![Visitor Count](https://profile-counter.glitch.me/pixel-debug/count.svg)
